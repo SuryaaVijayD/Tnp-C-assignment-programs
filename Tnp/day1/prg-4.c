@@ -1,5 +1,5 @@
 // To print unique values from array
-// Imagine ChildWorks
+
 
 #include<stdio.h>
 int main() {
