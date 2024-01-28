@@ -6,9 +6,9 @@ int main() {
     char a[30], b[30];
     int i, j, l1, l2;
     printf("Enter string1: ");
-    scanf("%s", a);
+    scanf("%[^\n]", a);
     printf("Enter string2: ");
-    scanf("%s", b);
+    scanf("%[^\n]", b);
     l1 = strlen(a);
     l2 = strlen(b);
     if (l1 == l2) {
