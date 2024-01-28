@@ -1,5 +1,4 @@
 // To count number of lines in given string
-// Imagine ChildWorks
 
 #include<stdio.h>
 int main() {
